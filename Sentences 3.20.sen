@@ -1,0 +1,1 @@
+7.1.1.18681wnds:Windows 86.2SntFC1428132131742D1428135596937S845810~FrontOf(f,a)RightOf(f,a)&LeftOf(f,b)BackOf(f,a)|Smaller(f,a)Between(e,c,a)&Between(d,c,a)~(Larger(e,c)|Larger(d,c))~(Larger(e,d)|Smaller(e,d))Smaller(c,a)&Larger(c,e)FrontOf(c,f)&Smaller(c,f)SameRow(b,a)&~SameCol(b,f)~(SameCol(e,c)|SameCol(e,d))s=49372;
